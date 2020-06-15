@@ -1,0 +1,2 @@
+Download the original data from https://www.kaggle.com/teajay/global-shark-attacks 
+Place it here as attacks.csv
