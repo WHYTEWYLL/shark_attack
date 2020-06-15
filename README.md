@@ -14,3 +14,4 @@
 - [ ] Limpiar los datos de las columnas
 - [ ] Renombre columnas
 - [ ] Re-establecer el index
+- [ ] Extraer el archivo
