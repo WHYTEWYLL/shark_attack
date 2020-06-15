@@ -1,11 +1,9 @@
 # Shark_attack
 # Data Cleaning and Manipulation - Jupyter Notebook
 
-***
  
 ## Overview
 
-***
 
 <div class="alert alert-block alert-info">
 
