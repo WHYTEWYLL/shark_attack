@@ -1,10 +1,9 @@
-# Data Cleaning and Manipulation - Jupyter Notebook
- 
-##  Shark_attack-Overview
-
+# Data Cleaning and Manipulation
+***
+## Overview
+***
 <div class="alert alert-block alert-info">
-<b>Objetivo:</b> es limpiar y manipular el dataset  usando **Pandas**, dejandolo listo para futuros análisis. A continuacion encontrara una lista de los principales que vamos a realizar, ya que dependiendo del dataset pueden variar. 
-</div>
+<b>Objetivo:</b> es limpiar y manipular el dataset  usando **Pandas**, dejandolo listo para futuros análisis. A continuacion encontrara una lista de los principales que vamos a realizar, ya que dependiendo del dataset pueden variar. </div>
 
 **To do list:**
 - [ ] Importar librerias
